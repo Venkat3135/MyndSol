@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    margin: 10px;
+    height: 20px;
+    width: 150px;
+   
+}
+
+
+
+.valueunlock{
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+#name{
+    background-color: rgb(173, 180, 186);
+    color: white;
+}
+#name1{
+    background-color: lightgreen;
+}
+#name2{
+    background-color: lightcoral;
+}

@@ -1,0 +1,43 @@
+body{
+    
+    background-color:  aquamarine;
+  text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+
+  input{
+    background-color: antiquewhite;
+   
+  }
+
+  #result{
+    background-color: lightgreen;
+    width: 100px;
+    border-radius: 5px;
+    border: 3px solid ;
+
+  }
+
+  #keyCoin{
+    text-align: center;
+    border-radius: 5px;
+    border: 3px solid lightgreen;
+    width: 100px;
+  }
+  #result1{
+    background-color: red;
+    width: 100px;
+    
+    border-radius: 5px;
+    border: 3px solid ;
+
+  }
+  #increase{
+    text-align: center;
+    border-radius: 5px;
+    border: 3px solid ;
+    width: 100px;
+  }

@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+   
+    background-color: aquamarine;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+   
+}
+
+nav {
+    background-color: #666;
+    color: white;
+   
+    text-align: center;
+    height: 100%;
+    width: 20%;
+}
+
+main {
+
+
+}
+
+.dashboard-section {
+   
+    
+    padding: 10px;
+    background-color: #666;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white;
+    text-align: center;
+    height: 450px;
+    width: 20%;
+}
+
+/* Add more styles for specific sections like price chart, verification, subscription, etc. */
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+   

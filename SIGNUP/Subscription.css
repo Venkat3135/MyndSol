@@ -1,0 +1,40 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: aquamarine;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .subscription-container {
+            display: flex;
+            justify-content: space-around;
+            background-color:antiquewhite;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .subscription-plan {
+            background-color: #98db;
+            text-align: center;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 8px;
+            border: 2px solid darkorchid;
+        }
+
+        .subscription-plan h2 {
+            color: #3498db;
+           
+        }
+
+
+        button{
+            background-color: darkgrey;
+            color: white;
+        }

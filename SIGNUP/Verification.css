@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+#email{
+    text-align: center;
+    background-color: antiquewhite;
+}
+#doc{
+    text-align: center;
+    background-color: red;
+    border-radius: 4px;
+    border: 2px solid green;
+}
+#doc1{
+background-color: blue;
+border-radius: 4px;
+border: 2px solid green;
+}
+#doc2{
+    background-color: lightgreen;
+    border-radius: 4px;
+    border: 2px solid green;
+    }
+   
